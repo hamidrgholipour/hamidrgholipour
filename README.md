@@ -4,26 +4,19 @@
 ## Devops and infrustructure engineer
 
 
-### DevOps Skills:
-- Bash
-- Docker
+### Skills:
 - Kubernetes
-- Helm
-- Jenkins
+- Docker
 - Terraform
+- Helm
+- Ansible
 - ELK
-- Gitlab CI/CD - Jenkins - Github Actions
+- Gitlab - Jenkins 
 - Bash - Python
-- Ansible - Puppet
-- Terraform 
-- Docker - DockerCompose
-- Kubernetes 
-- Helm Package manager
+- ArgoCD
+- HA Proxy - Nginx
 - EKS - ECS - Lambda - RDS - VPC - Autoscaling - SSM - KMS - ACM
-- Hashicorp Consul - Hashicorp Vault
-- Grafana - Prometheus - ELK - EFK - CloudWatch - DataDog - InfluxDB
-
-
+- Grafana - Prometheus - ELK - EFK - CloudWatch - Zabiix
 <p align="left">
 </p>
 
