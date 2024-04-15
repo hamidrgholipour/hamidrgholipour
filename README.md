@@ -10,13 +10,12 @@
 - Terraform
 - Helm
 - Ansible
-- ELK
 - Gitlab - Jenkins 
 - Bash - Python
 - ArgoCD
 - HA Proxy - Nginx
 - EKS - ECS - Lambda - RDS - VPC - Autoscaling - SSM - KMS - ACM
-- Grafana - Prometheus - ELK - EFK - CloudWatch - Zabiix
+- Grafana - Prometheus - ELK - EFK - CloudWatch - Zabbix
 <p align="left">
 </p>
 
