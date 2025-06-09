@@ -1,6 +1,6 @@
 
 
-# Hi there , I Am Hamidreza Gholipour 👋
+# Hi there , I Am Hamidreza 👋
 ## Devops and Cloud engineer
 
 
@@ -12,7 +12,7 @@
 - Ansible
 - Gitlab - Jenkins 
 - Bash - Python
-- ArgoCD
+- Rook Ceph
 - HA Proxy - Nginx
 - EKS - ECS - Lambda - RDS - VPC - Autoscaling - SSM - KMS - ACM
 - Grafana - Prometheus - ELK - EFK - CloudWatch - Zabbix
